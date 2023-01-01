@@ -1,7 +1,7 @@
 Game Developer
 --------------
 
-I'm passionate about creating multiplayer online fantasy PvP games. I'm currently working on [Arena of Kings](http://arenaofkings.com)
+I'm passionate about creating multiplayer online fantasy PvP games. I'm currently working on [Arena of Kings](http://arenaofkings.com).
 
 <a href="http://www.github.com/villain-bryan"><img src="https://github-readme-stats.vercel.app/api?username=villain-bryan&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="villain-bryan's GitHub stats" /></a>
 
